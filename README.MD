@@ -39,7 +39,6 @@ By providing real-time data insights, this drone-based monitoring system enhance
 7. **RF Receiver Transmitter**
 8. **Remote Controller**
 9. **Camera**
-10. **Raspberry Pi**
 
 ---
 
